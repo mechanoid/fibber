@@ -1,0 +1,14 @@
+{
+  "name": "fibber-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "fibber.example.js",
+  "scripts": {
+    "start": "fibber -f fibber.example.js"
+  },
+  "author": "Falk Hoppe <falkhoppe81@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "fibber": "file:.."
+  }
+}
